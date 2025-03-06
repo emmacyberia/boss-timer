@@ -12,7 +12,7 @@ Because sometimes, all you need is a simple reminder when the boss cooldown is o
 * Timer turns green when the cooldown is over
 * No unnecessary fluff - just a timer
 
-![](https://github.com/emmacyberia/boss-timer/blob/main/boss-timer.PNG)
+![](https://github.com/emmacyberia/boss-timer/blob/main/boss-timer/assets/images/boss-timer.png)
 
 ## Usage
 
